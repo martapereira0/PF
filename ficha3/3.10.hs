@@ -1,0 +1,1 @@
+mindiv :: Int -> Int
